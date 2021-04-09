@@ -1,1 +1,1 @@
-# termux
+pYTHON bASİC pROJECTS fOR tERMUX
